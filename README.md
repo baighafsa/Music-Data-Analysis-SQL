@@ -1,4 +1,4 @@
-# Music Data Analysis SQL Queries
+# Music Data Analysis SQL Queries🎀
 
 Welcome to the **Music Data Analysis SQL Queries** repository! This repository contains a collection of SQL queries designed to analyze music-related data. The queries are categorized into three levels of complexity: Easy, Moderate, and Advanced.
 
@@ -16,5 +16,4 @@ For those seeking more advanced insights, the **Advanced** level offers queries 
 
 Feel free to explore each level and execute the queries on your own dataset. Whether you're a beginner or an experienced analyst, these queries can help you uncover valuable insights within the music industry.
 
-If you have any questions, suggestions, or improvements, please don't hesitate to contribute or reach out. Happy music data analysis! 🎶📊# Music-Data-Analysis-SQL
-
+If you have any questions, suggestions, or improvements, please don't hesitate to contribute or reach out.📊⭐
